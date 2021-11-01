@@ -1,4 +1,4 @@
-import react from "react";
+
 import classes from "./MealSummary.module.css"
 const MealsSummary = () => {
   return (
